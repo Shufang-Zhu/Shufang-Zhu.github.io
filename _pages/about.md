@@ -35,14 +35,14 @@ Quick links to find me:
 Postdoctoral Research Associate, 2020 - Present <br/>
 Sapienza Università di Roma, Rome, Italy.
 
+Researcher, 2020.5 - 2020.10 <br/>
+<a href="https://www.huawei.com/en/">Shanghai Industrial Control Safety Innovation Technology Co. LTD (TICPSH)</a>, Shanghai, China
+
 Researcher Intern, 2018.6 - 2018.8 <br/>
-OS Kernal Lab, Shanghai, <a href="https://www.huawei.com/en/">Huawei</a>
+OS Kernal Lab, <a href="https://www.huawei.com/en/">Huawei</a>, China
 
 Ph.D. Researcher, 2016.8 - 2018.2 <br/>
 Rice University, Houston, US
-
-Researcher, 2020.5 - 2020.10 <br/>
-<a href="https://www.huawei.com/en/">Shanghai Industrial Control Safety Innovation Technology Co. LTD (TICPSH)</a>, Shanghai, China
 
 ---
 ### Education

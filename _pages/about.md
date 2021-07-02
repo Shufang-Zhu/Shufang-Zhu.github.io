@@ -26,9 +26,9 @@ During my Ph.D., I got the scholarship from <a href="https://www.chinesescholars
 My main interests are in automated reasoning and formal verification.
 
 Quick links to find me:
-+ <a pref="https://github.com/Shufang-Zhu/">Github</a>;
-+ <a pref="https://scholar.google.com/citations?user=nkOKc3MAAAAJ&hl=en">Google Scholar</a>;
-+ <a pref="https://dblp.org/pid/141/7718-1.html">DBLP</a>;
++ <a href="https://github.com/Shufang-Zhu/">Github</a>;
++ <a href="https://scholar.google.com/citations?user=nkOKc3MAAAAJ&hl=en">Google Scholar</a>;
++ <a href="https://dblp.org/pid/141/7718-1.html">DBLP</a>;
 
 ---
 ### Experience
@@ -36,7 +36,7 @@ Postdoctoral Research Associate, 2020 - Present <br/>
 Sapienza Università di Roma, Rome, Italy.
 
 Researcher Intern, 2018.6 - 2018.8 <br/>
-OS Kernal Lab, Shanghai, <a pref="https://www.huawei.com/en/">Huawei</a>
+OS Kernal Lab, Shanghai, <a href="https://www.huawei.com/en/">Huawei</a>
 
 Ph.D. Researcher, 2016.8 - 2018.2 <br/>
 Rice University, Houston, US

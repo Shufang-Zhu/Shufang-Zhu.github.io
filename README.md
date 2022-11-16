@@ -16,6 +16,9 @@ Quick links to find me:
 
 My Erdős number is at most 3 (via Moshe Y. Vardi -> Joel H. Spencer -> Paul Erdős).
 
+## CV
+You can find my [CV here](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/cv/CV_Shufang_Zhu.pdf).
+
 ## Experience
 * Postdoctoral Research Associate, 2020 - Present  
 Sapienza Università di Roma, Rome, Italy
@@ -40,9 +43,6 @@ East China Normal University, Shanghai, China (ECNU).
 * 2022: [Game-Theoretic Approach to Planning and Synthesis](https://whitemech.github.io/courses)  
 [Italian National PhD Program in Artificial Intelligence](https://www.phd-ai.it/en/359-2/)
 
-
-## CV
-You can find my [CV here](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/cv/CV_Shufang_Zhu.pdf).
 
 ## Publications
 \* indicates author list has been sorted alphabetically by last name.

@@ -124,24 +124,24 @@ In Proc. of International Haifa Verification Conference (HVC), 2015
 ### Journal Articles
 
 * **SAT-based explicit LTL reasoning and its application to satisfiability checking**  
-Jianwen Li, Shufang Zhu, Geguang Pu, Lijun Zhang, Moshe Y. Vardi  
+Jianwen Li, **Shufang Zhu**, Geguang Pu, Lijun Zhang, Moshe Y. Vardi  
 Formal Methods Syst. Des. 54(2):164-190 (2019)  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2019FMSD.pdf)
 
 * **An explicit transition system construction approach to LTL satisfiability checking.**  
-Shufang Zhu, Geguang Pu, Moshe Y. Vardi, Jifeng He  
+Jianwen Li, **Shufang Zhu**, Geguang Pu, Moshe Y. Vardi, Jifeng He  
 Formal Aspects Comput. 30(2): 193-217 (2018)  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2018FAC.pdf)
 
 
 ### Workshop Articles
 
-* **Symbolic Approaches to LTLf Best-Effort Synthesis** \*  
+* **Symbolic Approaches to LTLf Best-Effort Synthesis**\*  
 Giuseppe De Giacomo, Gianmarco Parretti, **Shufang Zhu**  
 GenPlan 2022: Sixth Workshop on Generalization in Planning  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2022GenPlana.pdf) [[slides]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2022GenPlana.pdf)
 
-* **Mimicking Behaviors in Separated Domains** \*  
+* **Mimicking Behaviors in Separated Domains**\*  
 Giuseppe De Giacomo, Dror Fried, Fabio Patrizi, **Shufang Zhu**  
 GenPlan 2022: Sixth Workshop on Generalization in Planning  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2022GenPlan.pdf) [[slides]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2022GenPlan.pdf)

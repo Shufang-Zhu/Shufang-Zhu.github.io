@@ -19,30 +19,27 @@ Quick links to find me:
 My Erdős number is at most 3 (via Moshe Y. Vardi -> Joel H. Spencer -> Paul Erdős).
 
 ## Experience
-
-* Postdoctoral Research Associate, 2020 - Present 
+* Postdoctoral Research Associate, 2020 - Present  
 Sapienza Università di Roma, Rome, Italy
 
-* Researcher, 2020.5 - 2020.10 
+* Researcher, 2020.5 - 2020.10  
 [Shanghai Industrial Control Safety Innovation Technology Co. LTD (TICPSH)](https://www.huawei.com/en/), Shanghai, China
 
-* Researcher Intern, 2018.6 - 2018.8 
+* Researcher Intern, 2018.6 - 2018.8  
 OS Kernel Lab, [Huawei](https://www.huawei.com/en/), China
 
-* Ph.D. Researcher, 2016.8 - 2018.2 
+* Ph.D. Researcher, 2016.8 - 2018.2  
 Rice University, Houston, US
 
 ## Education
-
-* Ph.D. in School of Software Engineering, 2014 - 2020 
+* Ph.D. in School of Software Engineering, 2014 - 2020  
 East China Normal University, Shanghai, China (ECNU).
 
-* B.Sc. in School of Software Engineering, 2010 - 2014 
+* B.Sc. in School of Software Engineering, 2010 - 2014  
 East China Normal University, Shanghai, China (ECNU).
 
 ## Teaching
-
-* 2022: [Game-Theoretic Approach to Planning and Synthesis](https://whitemech.github.io/courses)
+* 2022: [Game-Theoretic Approach to Planning and Synthesis](https://whitemech.github.io/courses)  
 [Italian National PhD Program in Artificial Intelligence](https://www.phd-ai.it/en/359-2/)
 
 

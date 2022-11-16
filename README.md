@@ -53,12 +53,12 @@ To appear at the 14th International Conference on Verified Software: Theories, T
 
 * **LTLf Synthesis as AND-OR Graph Search: Knowledge Compilation at Work**\*
 Giuseppe De Giacomo, Marco Favorito, Jianwen Li, Moshe Y Vardi, Shengping Xiao, **Shufang Zhu**  
-In Proc. of International Joint Conference on Artificial Intelligence (IJCAI), 2022
+In Proc. of International Joint Conference on Artificial Intelligence (IJCAI), 2022  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2022IJCAIb.pdf) [[slides]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/presentations/2022IJCAIb.pdf)
 
 * **Synthesis of Maximally Permissive Strategies for LTLf Specifications**  
 **Shufang Zhu**, Giuseppe De Giacomo  
-In Proc. of International Joint Conference on Artificial Intelligence (IJCAI), 2022
+In Proc. of International Joint Conference on Artificial Intelligence (IJCAI), 2022  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2022IJCAIa.pdf) [[slides]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/presentations/2022IJCAIa.pdf)
 
 * **Act for Your Duties but Maintain Your Rights**  

@@ -47,11 +47,11 @@ East China Normal University, Shanghai, China (ECNU).
 ## Publications
 \* indicates author list has been sorted alphabetically by last name.
 ### Conference Articles
-* **Compositional Safety LTL Synthesis**\*
+* **Compositional Safety LTL Synthesis**\*  
 Suguman Bansal, Giuseppe De Giacomo, Antonio Di Stasio, Yong Li, Moshe Y Vardi, **Shufang Zhu**  
 To appear at the 14th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE), 2022  
 
-* **LTLf Synthesis as AND-OR Graph Search: Knowledge Compilation at Work**\*
+* **LTLf Synthesis as AND-OR Graph Search: Knowledge Compilation at Work**\*  
 Giuseppe De Giacomo, Marco Favorito, Jianwen Li, Moshe Y Vardi, Shengping Xiao, **Shufang Zhu**  
 In Proc. of International Joint Conference on Artificial Intelligence (IJCAI), 2022  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2022IJCAIb.pdf) [[slides]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/presentations/2022IJCAIb.pdf)
@@ -82,65 +82,67 @@ In Proc. of International Conference on Principles of Knowledge Representation a
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2021KR.pdf) [[slides]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/presentations/2021KR.pdf)
 
 * **On the Power of Automata Minimization in Temporal Synthesis**  
-**Shufang Zhu**, Lucas M Tabajara, Geguang Pu, Moshe Y Vardi 
+**Shufang Zhu**, Lucas M Tabajara, Geguang Pu, Moshe Y Vardi  
 In Proc. of International Symposium on Games, Automata, Logics, and Formal Verification (GandALF), 2021  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2021GandALF.pdf) [[slides]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/presentations/2021GandALF.pdf)
 
 * **Two-stage technique for LTLf synthesis under LTL assumptions**\*  
-Giuseppe De Giacomo, Antonio Di Stasio, Moshe Y. Vardi, **Shufang Zhu**
+Giuseppe De Giacomo, Antonio Di Stasio, Moshe Y. Vardi, **Shufang Zhu**  
 In Proc. of International Conference on Principles of Knowledge Representation and Reasoning (KR), 2020  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2020KR.pdf) [[slides]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/presentations/2020KR.pdf)
 
-* **LTLf Synthesis with Fairness and Stability Assumptions**
-**Shufang Zhu**, Giuseppe De Giacomo, Geguang Pu, Moshe Y Vardi
+* **LTLf Synthesis with Fairness and Stability Assumptions**  
+**Shufang Zhu**, Giuseppe De Giacomo, Geguang Pu, Moshe Y Vardi  
 In Proc. of AAAI Conference on Artificial Intelligence (AAAI), 2020  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2020AAAI.pdf) [[slides]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/presentations/2020AAAI.pdf)
 
-* **First-Order vs. Second-Order Encodings for LTLf-to-Automata Translation**
-**Shufang Zhu**, Geguang Pu, Moshe Y. Vardi
+* **First-Order vs. Second-Order Encodings for LTLf-to-Automata Translation**  
+**Shufang Zhu**, Geguang Pu, Moshe Y. Vardi  
 In Proc. of Annual Conference of Theory and Applications of Models of Computation (TAMC), 2019  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2019TAMC.pdf) [[slides]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/presentations/2019TAMC.pdf)
 
-* **Symbolic LTLf Synthesis**
-**Shufang Zhu**, Lucas M. Tabajara, Jianwen Li, Geguang Pu, Moshe Y. Vardi
+* **Symbolic LTLf Synthesis**  
+**Shufang Zhu**, Lucas M. Tabajara, Jianwen Li, Geguang Pu, Moshe Y. Vardi  
 In Proc. of International Joint Conference on Artificial Intelligence (IJCAI), 2017  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2017IJCAI.pdf) [[slides]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/presentations/2017IJCAI.pdf)
 
-* **A Symbolic Approach to Safety LTL Synthesis**
-**Shufang Zhu**, Lucas M. Tabajara, Jianwen Li, Geguang Pu, Moshe Y. Vardi
-In Proc. of International Haifa Verification Conference (HVC), 2017  
+* **A Symbolic Approach to Safety LTL Synthesis**  
+**Shufang Zhu**, Lucas M. Tabajara, Jianwen Li, Geguang Pu, Moshe Y. Vardi  
+In Proc. of International Haifa Verification Conference (HVC), 2017 
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2017HVC.pdf)
 
-* **Safety model checking with complementary approximations**
-Jianwen Li, **Shufang Zhu**, Yueling Zhang, Geguang Pu, Moshe Y. Vardi
+* **Safety model checking with complementary approximations**  
+Jianwen Li, **Shufang Zhu**, Yueling Zhang, Geguang Pu, Moshe Y. Vardi  
 In Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 2017  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2017ICCAD.pdf)
 
-* **SAT-Based Explicit LTL Reasoning**
-Jianwen Li, **Shufang Zhu**, Geguang Pu, Moshe Y. Vardi
+* **SAT-Based Explicit LTL Reasoning**  
+Jianwen Li, **Shufang Zhu**, Geguang Pu, Moshe Y. Vardi  
 In Proc. of International Haifa Verification Conference (HVC), 2015  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2015HVC.pdf)
 
 ### Journal Articles
 
 * **SAT-based explicit LTL reasoning and its application to satisfiability checking**  
-Jianwen Li, Shufang Zhu, Geguang Pu, Lijun Zhang, Moshe Y. Vardi 
+Jianwen Li, Shufang Zhu, Geguang Pu, Lijun Zhang, Moshe Y. Vardi  
 Formal Methods Syst. Des. 54(2):164-190 (2019)  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2019FMSD.pdf)
 
 * **An explicit transition system construction approach to LTL satisfiability checking.**  
-Shufang Zhu, Geguang Pu, Moshe Y. Vardi, Jifeng He 
-Formal Aspects Comput. 30(2): 193-217 (2018)
+Shufang Zhu, Geguang Pu, Moshe Y. Vardi, Jifeng He  
+Formal Aspects Comput. 30(2): 193-217 (2018)  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2018FAC.pdf)
 
 
 ### Workshop Articles
 
-* **Symbolic Approaches to LTLf Best-Effort Synthesis** \*
+* **Symbolic Approaches to LTLf Best-Effort Synthesis** \*  
 Giuseppe De Giacomo, Gianmarco Parretti, **Shufang Zhu**  
+GenPlan 2022: Sixth Workshop on Generalization in Planning  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2022GenPlana.pdf) [[slides]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2022GenPlana.pdf)
 
-* **Mimicking Behaviors in Separated Domains** \*
+* **Mimicking Behaviors in Separated Domains** \*  
 Giuseppe De Giacomo, Dror Fried, Fabio Patrizi, **Shufang Zhu**  
+GenPlan 2022: Sixth Workshop on Generalization in Planning  
 [[paper]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2022GenPlan.pdf) [[slides]](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/publications/2022GenPlan.pdf)
 

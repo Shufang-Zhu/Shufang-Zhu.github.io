@@ -1,4 +1,6 @@
 # Dr. Shufang Zhu
+![Photo](https://github.com/Shufang-Zhu/ShufangZhu.github.io/raw/master/images/shufang.jpg).
+
 
 I am a Research Associate at the [Dipartimento di Ingegneria Informatica, Automatica e Gestionale](http://www.diag.uniroma1.it/), [Sapienza University of Rome](https://www.uniroma1.it/it/), working with [Prof. Giuseppe De Giacomo](http://www.diag.uniroma1.it//degiacom/) on his Advanced ERC project [WhiteMech](https://whitemech.github.io/).
 
@@ -18,24 +20,24 @@ My Erdős number is at most 3 (via Moshe Y. Vardi -> Joel H. Spencer -> Paul Erd
 
 ## Experience
 
-* Postdoctoral Research Associate, 2020 - Present
+* Postdoctoral Research Associate, 2020 - Present 
 Sapienza Università di Roma, Rome, Italy
 
-* Researcher, 2020.5 - 2020.10
+* Researcher, 2020.5 - 2020.10 
 [Shanghai Industrial Control Safety Innovation Technology Co. LTD (TICPSH)](https://www.huawei.com/en/), Shanghai, China
 
-* Researcher Intern, 2018.6 - 2018.8
+* Researcher Intern, 2018.6 - 2018.8 
 OS Kernel Lab, [Huawei](https://www.huawei.com/en/), China
 
-* Ph.D. Researcher, 2016.8 - 2018.2
+* Ph.D. Researcher, 2016.8 - 2018.2 
 Rice University, Houston, US
 
 ## Education
 
-* Ph.D. in School of Software Engineering, 2014 - 2020
+* Ph.D. in School of Software Engineering, 2014 - 2020 
 East China Normal University, Shanghai, China (ECNU).
 
-* B.Sc. in School of Software Engineering, 2010 - 2014
+* B.Sc. in School of Software Engineering, 2010 - 2014 
 East China Normal University, Shanghai, China (ECNU).
 
 ## Teaching
@@ -47,9 +49,9 @@ East China Normal University, Shanghai, China (ECNU).
 ## CV
 You can find my [CV here](https://github.com/Shufang-Zhu/ShufangZhu.github.io/raw/master/cv/CV_Shufang_Zhu.pdf).
 
-## Publications 
+## Publications
 \* indicates author list has been sorted alphabetically by last name.
-### Conference Articles 
+### Conference Articles
 * **Compositional Safety LTL Synthesis**\*
 Suguman Bansal, Giuseppe De Giacomo, Antonio Di Stasio, Yong Li, Moshe Y Vardi, **Shufang Zhu**  
 To appear at the 14th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE), 2022  

@@ -1,5 +1,5 @@
 # Dr. Shufang Zhu
-![Photo](https://github.com/Shufang-Zhu/ShufangZhu.github.io/raw/master/images/shufang.jpg).
+![Photo](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/images/shufang.jpg).
 
 
 I am a Research Associate at the [Dipartimento di Ingegneria Informatica, Automatica e Gestionale](http://www.diag.uniroma1.it/), [Sapienza University of Rome](https://www.uniroma1.it/it/), working with [Prof. Giuseppe De Giacomo](http://www.diag.uniroma1.it//degiacom/) on his Advanced ERC project [WhiteMech](https://whitemech.github.io/).
@@ -47,7 +47,7 @@ East China Normal University, Shanghai, China (ECNU).
 
 
 ## CV
-You can find my [CV here](https://github.com/Shufang-Zhu/ShufangZhu.github.io/raw/master/cv/CV_Shufang_Zhu.pdf).
+You can find my [CV here](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/cv/CV_Shufang_Zhu.pdf).
 
 ## Publications
 \* indicates author list has been sorted alphabetically by last name.

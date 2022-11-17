@@ -1,4 +1,4 @@
-# Dr. Shufang Zhu
+# [Dr. Shufang Zhu](images/shufang.jpg)
 
 I am a Research Associate at the [Dipartimento di Ingegneria Informatica, Automatica e Gestionale](http://www.diag.uniroma1.it/), [Sapienza University of Rome](https://www.uniroma1.it/it/), working with [Prof. Giuseppe De Giacomo](http://www.diag.uniroma1.it//degiacom/) on his Advanced ERC project [WhiteMech](https://whitemech.github.io/).
 
@@ -17,7 +17,7 @@ Quick links to find me:
 My Erdős number is at most 3 (via Moshe Y. Vardi -> Joel H. Spencer -> Paul Erdős).
 
 ## CV
-You can find my [CV here](https://github.com/Shufang-Zhu/ShufangZhu.github.io/blob/main/cv/CV_Shufang_Zhu.pdf).
+You can find my [CV here](cv/CV_Shufang_Zhu.pdf).
 
 ## Experience
 * Postdoctoral Research Associate, 2020 - Present  

@@ -44,10 +44,10 @@ East China Normal University, Shanghai, China (ECNU).
 
 ## Teaching
 * 2023: [Foundations of Self-Programming Agents](https://www.cs.ox.ac.uk/teaching/courses/2022-2023/foundagent/)  
-  Exercise classes, Hilary Term, University of Oxford
+  Teaching Assistant, Hilary Term, University of Oxford
 
 * 2022: [Game-Theoretic Approach to Planning and Synthesis](https://whitemech.github.io/courses)  
-[Italian National PhD Program in Artificial Intelligence](https://www.phd-ai.it/en/359-2/)
+Lecturer, [Italian National PhD Program in Artificial Intelligence](https://www.phd-ai.it/en/359-2/)
 
 
 ## Publications

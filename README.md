@@ -1,6 +1,6 @@
 # [Dr. Shufang Zhu](images/shufang.jpg)
 
-I am a Research Associate at the [Dipartimento di Ingegneria Informatica, Automatica e Gestionale](http://www.diag.uniroma1.it/), [Sapienza University of Rome](https://www.uniroma1.it/it/), working with [Prof. Giuseppe De Giacomo](http://www.diag.uniroma1.it//degiacom/) on his Advanced ERC project [WhiteMech](https://whitemech.github.io/).
+I am a Senior Research Associate at the [Department of Computer Science](https://www.cs.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/), working with [Prof. Giuseppe De Giacomo](http://www.diag.uniroma1.it//degiacom/) on his Advanced ERC project [WhiteMech](https://whitemech.github.io/).
 
 I received my Ph.D. degree in 2020, at [East China Normal University (ECNU)](http://english.ecnu.edu.cn/), Shanghai, China, under the supervision of [Prof. Geguang Pu](https://faculty.ecnu.edu.cn/_s43/pgg_en/main.psp). 
 
@@ -20,17 +20,20 @@ My Erdős number is at most 3 (via Moshe Y. Vardi -> Joel H. Spencer -> Paul Erd
 You can find my [CV here](cv/CV_Shufang_Zhu.pdf).
 
 ## Experience
-* Postdoctoral Research Associate, 2020 - Present  
-Sapienza Università di Roma, Rome, Italy
+* Senior Postdoctoral Research Associate, 2023 - Present  
+[University of Oxford](https://www.cs.ox.ac.uk/), Oxford, UK
+
+* Postdoctoral Research Associate, 2020 - 2022  
+[Sapienza Università di Roma](http://www.diag.uniroma1.it/), Rome, Italy
 
 * Researcher, 2020.5 - 2020.10  
-[Shanghai Industrial Control Safety Innovation Technology Co. LTD (TICPSH)](https://www.huawei.com/en/), Shanghai, China
+[Shanghai Industrial Control Safety Innovation Technology Co. LTD (TICPSH)](https://www.ticpsh.com/en/about/intro.html), Shanghai, China
 
 * Researcher Intern, 2018.6 - 2018.8  
-OS Kernel Lab, [Huawei](https://www.huawei.com/en/), China
+OS Kernel Lab, [Huawei](https://www.huawei.com/en/), Shanghai, China
 
 * Ph.D. Researcher, 2016.8 - 2018.2  
-Rice University, Houston, US
+[Rice University](https://csweb.rice.edu/), Houston, US
 
 ## Education
 * Ph.D. in School of Software Engineering, 2014 - 2020  
@@ -40,6 +43,9 @@ East China Normal University, Shanghai, China (ECNU).
 East China Normal University, Shanghai, China (ECNU).
 
 ## Teaching
+* 2023: [Foundations of Self-Programming Agents](https://www.cs.ox.ac.uk/teaching/courses/2022-2023/foundagent/)  
+  Exercise classes, Hilary Term, University of Oxford
+
 * 2022: [Game-Theoretic Approach to Planning and Synthesis](https://whitemech.github.io/courses)  
 [Italian National PhD Program in Artificial Intelligence](https://www.phd-ai.it/en/359-2/)
 

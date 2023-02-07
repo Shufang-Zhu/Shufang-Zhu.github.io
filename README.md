@@ -70,7 +70,7 @@ In Proc. of International Joint Conference on Artificial Intelligence (IJCAI), 2
 * **Act for Your Duties but Maintain Your Rights**  
 **Shufang Zhu**, Giuseppe De Giacomo  
 In Proc. of International Conference on Principles of Knowledge Representation and Reasoning (KR), 2022  
-[[paper]](publications/2022KR.pdf) [[slides]](presentations/2022KR.pdf)
+[[paper]](publications/2022KR_full.pdf) [[slides]](presentations/2022KR.pdf)
 
 * **Finite-Trace and Generalized-Reactivity Specifications in Temporal Synthesis**\*  
 Giuseppe De Giacomo, Antonio Di Stasio, Lucas M Tabajara, Moshe Y. Vardi, **Shufang Zhu**  

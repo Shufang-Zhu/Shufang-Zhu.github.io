@@ -7,19 +7,32 @@ I received my Ph.D. degree in 2020, at [East China Normal University (ECNU)](htt
 
 During my Ph.D., I got the scholarship from [Chinese Scholarship Council (CSC)](https://www.chinesescholarshipcouncil.com/) and studied as a visiting Ph.D. student (August 2016 to Feb 2018) at [Rice University](https://www.rice.edu/), under the supervision of [Prof. Moshe Y. Vardi](https://www.cs.rice.edu/~vardi/).
 
-
 Quick links to find me:  
 
 * [Github](https://github.com/Shufang-Zhu/)
 * [Google Scholar](https://scholar.google.com/citations?user=nkOKc3MAAAAJ&hl=en)  
-* [DBLP](https://dblp.org/pid/141/7718-1.html)  
+* [DBLP](https://dblp.org/pid/141/7718-1.html)
 
-Email: shufang.zhu(at)cs.ox.ac.uk
+You can find my [**CV here**](cv/CV_Shufang_Zhu.pdf).
 
 My Erdős number is at most 3 (via Moshe Y. Vardi -> Joel H. Spencer -> Paul Erdős).
 
-## CV
-You can find my [CV here](cv/CV_Shufang_Zhu.pdf).
+Email: shufang.zhu(at)cs.ox.ac.uk
+
+## News
+Apr 6, 2023  
+Talk on "On the power of LTLf in Assuerd Autonomy" selected for the [Oxbridge Conference 2023](https://www.oxbridge2023.com/)!
+
+Mar 15, 2023  
+Journal paper [Finite-trace and generalized-reactivity specifications in temporal synthesis](https://link.springer.com/article/10.1007/s10703-023-00413-2#citeas) is online! 
+
+Mar 2, 2023   
+Course on [Game-Theoretic Approach to Planning and Synthesis](https://essai.si/game-theoretic-approach-to-planning-and-synthesis/) accepted at [ESSAI’23]((https://essai.si/))! 
+
+
+
+
+
 
 ## Experience
 * Senior Postdoctoral Research Associate, 2023 - Present  
@@ -45,6 +58,9 @@ East China Normal University, Shanghai, China (ECNU).
 East China Normal University, Shanghai, China (ECNU).
 
 ## Teaching
+* 2023: [Game-Theoretic Approach to Planning and Synthesis](https://essai.si/game-theoretic-approach-to-planning-and-synthesis/)  
+Lecturer, [European Summer School on Artificial Intelligence](https://essai.si/)
+
 * 2023: [Foundations of Self-Programming Agents](https://www.cs.ox.ac.uk/teaching/courses/2022-2023/foundagent/)  
   Teaching Assistant, Hilary Term, University of Oxford
 
@@ -58,6 +74,7 @@ Lecturer, [Italian National PhD Program in Artificial Intelligence](https://www.
 * **Compositional Safety LTL Synthesis**\*  
 Suguman Bansal, Giuseppe De Giacomo, Antonio Di Stasio, Yong Li, Moshe Y Vardi, **Shufang Zhu**  
 To appear at the 14th International Conference on Verified Software: Theories, Tools, and Experiments (VSTTE), 2022  
+[[paper]](publications/2022VSTTE.pdf)
 
 * **LTLf Synthesis as AND-OR Graph Search: Knowledge Compilation at Work**\*  
 Giuseppe De Giacomo, Marco Favorito, Jianwen Li, Moshe Y Vardi, Shengping Xiao, **Shufang Zhu**  
@@ -116,7 +133,7 @@ In Proc. of International Joint Conference on Artificial Intelligence (IJCAI), 2
 
 * **A Symbolic Approach to Safety LTL Synthesis**  
 **Shufang Zhu**, Lucas M. Tabajara, Jianwen Li, Geguang Pu, Moshe Y. Vardi  
-In Proc. of International Haifa Verification Conference (HVC), 2017 
+In Proc. of International Haifa Verification Conference (HVC), 2017  
 [[paper]](publications/2017HVC.pdf)
 
 * **Safety model checking with complementary approximations**  
@@ -130,6 +147,11 @@ In Proc. of International Haifa Verification Conference (HVC), 2015
 [[paper]](publications/2015HVC.pdf)
 
 ### Journal Articles
+
+* **Finite-trace and generalized-reactivity specifications in temporal synthesis**\*  
+Giuseppe De Giacomo, Antonio Di Stasio, Lucas M. Tabajara, Moshe Y. Vardi, **Shufang Zhu**  
+Formal Methods Syst. Des. (2023). https://doi.org/10.1007/s10703-023-00413-2   
+[[paper]](publications/2022FMSD.pdf)
 
 * **SAT-based explicit LTL reasoning and its application to satisfiability checking**  
 Jianwen Li, **Shufang Zhu**, Geguang Pu, Lijun Zhang, Moshe Y. Vardi  

@@ -1,4 +1,5 @@
-# [Dr. Shufang Zhu](images/shufang.jpg)
+# [Dr. Shufang Zhu](images/shufang.jpg) 
+<img src="docs/assets/shufang.jpg" alt="Shufang" width="230" height="230">
 
 I am a Senior Research Associate at the [Department of Computer Science](https://www.cs.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/), working with [Prof. Giuseppe De Giacomo](http://www.diag.uniroma1.it//degiacom/) on his Advanced ERC project [WhiteMech](https://whitemech.github.io/).
 
@@ -13,6 +14,7 @@ Quick links to find me:
 * [Google Scholar](https://scholar.google.com/citations?user=nkOKc3MAAAAJ&hl=en)  
 * [DBLP](https://dblp.org/pid/141/7718-1.html)  
 
+Email: shufang.zhu(at)cs.ox.ac.uk
 
 My Erdős number is at most 3 (via Moshe Y. Vardi -> Joel H. Spencer -> Paul Erdős).
 

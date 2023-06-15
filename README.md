@@ -149,7 +149,7 @@ In Proc. of International Haifa Verification Conference (HVC), 2015
 
 ### Journal Articles
 
-* **Mimicking Behaviors in Separated Domains**\*
+* **Mimicking Behaviors in Separated Domains**\*    
 Giuseppe De Giacomo, Dror Fried; Fabio Patrizi, **Shufang Zhu**    
 Journal of Artificial Intelligence Research (2023). To Appear.   
 [[paper]](publications/2023JAIR.pdf)

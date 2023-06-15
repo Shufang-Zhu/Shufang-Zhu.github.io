@@ -19,15 +19,16 @@ My Erdős number is at most 3 (via Moshe Y. Vardi -> Joel H. Spencer -> Paul Erd
 
 Email: shufang.zhu(at)cs.ox.ac.uk
 
-## News
-Apr 6, 2023  
-Talk on "On the power of LTLf in Assuerd Autonomy" selected for the [Oxbridge Conference 2023](https://www.oxbridge2023.com/)!
 
-Mar 15, 2023  
-Journal paper [Finite-trace and generalized-reactivity specifications in temporal synthesis](https://link.springer.com/article/10.1007/s10703-023-00413-2#citeas) is online! 
+## News
+Jun 16, 2023   
+I will be attending the [12th workshop on synthesis](https://homepage.cs.uiowa.edu/~ajreynol/SYNT2023/) and [CAV'23](http://www.i-cav.org/2023/workshops/). 
+
+Jun 15, 2023   
+I will be attending the [7th International Workshop "Women in Logic"](https://sites.google.com/view/wil2023/). 
 
 Mar 2, 2023   
-Course on [Game-Theoretic Approach to Planning and Synthesis](https://essai.si/game-theoretic-approach-to-planning-and-synthesis/) accepted at [ESSAI’23]((https://essai.si/))! 
+Course on [Game-Theoretic Approach to Planning and Synthesis](https://essai.si/game-theoretic-approach-to-planning-and-synthesis/) accepted at [ESSAI’23]((https://essai.si/)). 
 
 
 
@@ -148,10 +149,16 @@ In Proc. of International Haifa Verification Conference (HVC), 2015
 
 ### Journal Articles
 
+* **Mimicking Behaviors in Separated Domains**\*
+Giuseppe De Giacomo, Dror Fried; Fabio Patrizi, **Shufang Zhu**
+Journal of Artificial Intelligence Research (2023). To Appear.   
+[[paper]](publications/2023JAIR.pdf)
+
+
 * **Finite-trace and generalized-reactivity specifications in temporal synthesis**\*  
 Giuseppe De Giacomo, Antonio Di Stasio, Lucas M. Tabajara, Moshe Y. Vardi, **Shufang Zhu**  
 Formal Methods Syst. Des. (2023). https://doi.org/10.1007/s10703-023-00413-2   
-[[paper]](publications/2022FMSD.pdf)
+[[paper]](publications/2023FMSD.pdf)
 
 * **SAT-based explicit LTL reasoning and its application to satisfiability checking**  
 Jianwen Li, **Shufang Zhu**, Geguang Pu, Lijun Zhang, Moshe Y. Vardi  

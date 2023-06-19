@@ -21,6 +21,10 @@ Email: shufang.zhu(at)cs.ox.ac.uk
 
 
 ## News
+
+Jun 19, 2023
+Our tool LydiaSyft won the 2nd place in the [synthesis competition](http://www.syntcomp.org/syntcomp-2023-results/)! Check [here](LydiaSyft.pdf) for the tool description.
+
 Jun 16, 2023   
 I will be attending the [12th workshop on synthesis](https://homepage.cs.uiowa.edu/~ajreynol/SYNT2023/) and [CAV'23](http://www.i-cav.org/2023/workshops/). 
 

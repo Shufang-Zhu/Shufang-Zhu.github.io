@@ -21,8 +21,13 @@ Email: shufang.zhu(at)cs.ox.ac.uk
 
 
 ## News
+Jul 15, 2023  
+Paper accepted to [ECAI](https://ecai2023.eu/) 2023!
 
-Jun 19, 2023
+Jul 5, 2023  
+Two papers accepted to [EUMAS](https://vadimmalvone.github.io/eumas2023/) 2023!
+
+Jun 19, 2023  
 Our tool LydiaSyft won the 2nd place in the [synthesis competition](http://www.syntcomp.org/syntcomp-2023-results/)! Check [here](publications/LydiaSyft.pdf) for the tool description.
 
 Jun 16, 2023   

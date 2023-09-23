@@ -12,7 +12,7 @@ Quick links to find me:
 * [Google Scholar](https://scholar.google.com/citations?user=nkOKc3MAAAAJ&hl=en)  
 * [DBLP](https://dblp.org/pid/141/7718-1.html)
 
-Academic Job Market. Application Materials: [**Research Statement**](application/ShufangZhu_rs.pdf) | [**Resume**](application/ShufangZhu_cv.pdf) | [**Teaching Statement**](application/ShufangZhu_ts.pdf) | [**Diversity Statement**](application/ShufangZhu_ds.pdf).
+Academic job market 2024! You can find my [**CV here**](application/ShufangZhu_rs.pdf).
 
 My Erdős number is at most 3 (via Moshe Y. Vardi -> Joel H. Spencer -> Paul Erdős).
 

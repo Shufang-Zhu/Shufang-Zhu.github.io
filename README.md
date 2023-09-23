@@ -12,7 +12,7 @@ Quick links to find me:
 * [Google Scholar](https://scholar.google.com/citations?user=nkOKc3MAAAAJ&hl=en)  
 * [DBLP](https://dblp.org/pid/141/7718-1.html)
 
-Academic job market 2024! You can find my [**CV here**](application/ShufangZhu_rs.pdf).
+<span style="background-color:#B58E6D">Academic job market 2024! You can find my [**CV here**](application/ShufangZhu_cv.pdf).</span>
 
 My Erdős number is at most 3 (via Moshe Y. Vardi -> Joel H. Spencer -> Paul Erdős).
 

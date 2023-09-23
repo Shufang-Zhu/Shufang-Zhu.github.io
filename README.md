@@ -4,7 +4,6 @@
 I am a Senior Research Associate at the [Department of Computer Science](https://www.cs.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/), working with [Prof. Giuseppe De Giacomo](http://www.diag.uniroma1.it//degiacom/) on his Advanced ERC project [WhiteMech](https://whitemech.github.io/).
 
 I received my Ph.D. degree in 2020, at [East China Normal University (ECNU)](http://english.ecnu.edu.cn/), Shanghai, China, under the supervision of [Prof. Geguang Pu](https://faculty.ecnu.edu.cn/_s43/pgg_en/main.psp). 
-
 During my Ph.D., I got the scholarship from [Chinese Scholarship Council (CSC)](https://www.chinesescholarshipcouncil.com/) and studied as a visiting Ph.D. student (August 2016 to Feb 2018) at [Rice University](https://www.rice.edu/), under the supervision of [Prof. Moshe Y. Vardi](https://www.cs.rice.edu/~vardi/).
 
 Quick links to find me:  

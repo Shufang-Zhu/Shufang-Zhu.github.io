@@ -40,7 +40,7 @@ Email: shufang.zhu(at)cs.ox.ac.uk
 <details>
   <summary>Previous news</summary>
 
-  * <span style="color:grey">Mar 2, 2023</span> Course on [Game-Theoretic Approach to Planning and Synthesis](https://essai.si/game-theoretic-approach-to-planning-and-synthesis/) accepted at [ESSAI’23]((https://essai.si/)).
+  * <span style="color:grey">Mar 2, 2023</span> Course on <a href="https://essai.si/game-theoretic-approach-to-planning-and-synthesis/">Game-Theoretic Approach to Planning and Synthesis</a> accepted to <a href="https://essai.si/">ESSAI’23</a>.
 
 </details>
 

@@ -4,7 +4,6 @@
 I am a Senior Research Associate at the [Department of Computer Science](https://www.cs.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/), working with [Prof. Giuseppe De Giacomo](http://www.diag.uniroma1.it//degiacom/) on his Advanced ERC project [WhiteMech](https://whitemech.github.io/).
 
 I received my Ph.D. degree in 2020, at [East China Normal University (ECNU)](http://english.ecnu.edu.cn/), Shanghai, China, under the supervision of [Prof. Geguang Pu](https://faculty.ecnu.edu.cn/_s43/pgg_en/main.psp). 
-
 During my Ph.D., I got the scholarship from [Chinese Scholarship Council (CSC)](https://www.chinesescholarshipcouncil.com/) and studied as a visiting Ph.D. student (August 2016 to Feb 2018) at [Rice University](https://www.rice.edu/), under the supervision of [Prof. Moshe Y. Vardi](https://www.cs.rice.edu/~vardi/).
 
 Quick links to find me:  
@@ -13,7 +12,7 @@ Quick links to find me:
 * [Google Scholar](https://scholar.google.com/citations?user=nkOKc3MAAAAJ&hl=en)  
 * [DBLP](https://dblp.org/pid/141/7718-1.html)
 
-Academic Job Market. Application Materials: [**Research Statement**](application/ShufangZhu_rs.pdf) | [**Resume**](application/ShufangZhu_cv.pdf) | [**Teaching Statement**](application/ShufangZhu_ts.pdf) | [**Diversity Statement**](application/ShufangZhu_ds.pdf).
+Academic job market 2024! You can find my [**CV here**](application/ShufangZhu_rs.pdf).
 
 My Erdős number is at most 3 (via Moshe Y. Vardi -> Joel H. Spencer -> Paul Erdős).
 

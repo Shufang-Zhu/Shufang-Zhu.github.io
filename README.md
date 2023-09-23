@@ -6,13 +6,18 @@ I am a Senior Research Associate at the [Department of Computer Science](https:/
 I received my Ph.D. degree in 2020, at [East China Normal University (ECNU)](http://english.ecnu.edu.cn/), Shanghai, China, under the supervision of [Prof. Geguang Pu](https://faculty.ecnu.edu.cn/_s43/pgg_en/main.psp). 
 During my Ph.D., I got the scholarship from [Chinese Scholarship Council (CSC)](https://www.chinesescholarshipcouncil.com/) and studied as a visiting Ph.D. student (August 2016 to Feb 2018) at [Rice University](https://www.rice.edu/), under the supervision of [Prof. Moshe Y. Vardi](https://www.cs.rice.edu/~vardi/).
 
+
+
+---
+**Academic job market 2024**: [**Resume**](application/ShufangZhu_cv.pdf).
+
+---
+
 Quick links to find me:  
 
 * [Github](https://github.com/Shufang-Zhu/)
 * [Google Scholar](https://scholar.google.com/citations?user=nkOKc3MAAAAJ&hl=en)  
 * [DBLP](https://dblp.org/pid/141/7718-1.html)
-
-<span style="background-color:#B58E6D">Academic job market 2024! You can find my [**CV here**](application/ShufangZhu_cv.pdf).</span>
 
 My Erdős number is at most 3 (via Moshe Y. Vardi -> Joel H. Spencer -> Paul Erdős).
 

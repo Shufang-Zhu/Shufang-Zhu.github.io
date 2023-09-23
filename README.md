@@ -13,7 +13,7 @@ Quick links to find me:
 * [Google Scholar](https://scholar.google.com/citations?user=nkOKc3MAAAAJ&hl=en)  
 * [DBLP](https://dblp.org/pid/141/7718-1.html)
 
-You can find my [**CV here**](cv/CV_Shufang_Zhu.pdf).
+Academic Job Market. Application Materials: [**Research Statement**](application/ShufangZhu_rs.pdf) | [**Resume**](application/ShufangZhu_cv.pdf) | [**Teaching Statement**](application/ShufangZhu_ts.pdf) | [**Diversity Statement**](application/ShufangZhu_ds.pdf).
 
 My Erdős number is at most 3 (via Moshe Y. Vardi -> Joel H. Spencer -> Paul Erdős).
 
@@ -21,23 +21,25 @@ Email: shufang.zhu(at)cs.ox.ac.uk
 
 
 ## Latest news
-Jul 15, 2023  
-Paper accepted to [ECAI](https://ecai2023.eu/) 2023!
+* <span style="color:grey">Sept 23, 2023</span> I will be attending the Dagstuhl Seminar on [The Futures of Reactive Synthesis](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23391)!
 
-Jul 5, 2023  
-Two papers accepted to [EUMAS](https://vadimmalvone.github.io/eumas2023/) 2023!
+* <span style="color:grey">Jul 15, 2023</span> Paper accepted to [ECAI](https://ecai2023.eu/) 2023!
 
-Jun 19, 2023  
-Our tool LydiaSyft won the 2nd place in the [synthesis competition](http://www.syntcomp.org/syntcomp-2023-results/)! Check [here](publications/LydiaSyft.pdf) for the tool description.
+* <span style="color:grey">Jul 5, 2023</span> Two papers accepted to [EUMAS](https://vadimmalvone.github.io/eumas2023/) 2023!
 
-Jun 16, 2023   
-I will be attending the [12th workshop on synthesis](https://homepage.cs.uiowa.edu/~ajreynol/SYNT2023/) and [CAV'23](http://www.i-cav.org/2023/workshops/). 
+* <span style="color:grey">Jun 19, 2023</span> Our tool LydiaSyft won the 2nd place in the [synthesis competition](http://www.syntcomp.org/syntcomp-2023-results/)! Check [here](publications/LydiaSyft.pdf) for the tool description.
 
-Jun 15, 2023   
-I will be attending the [7th International Workshop "Women in Logic"](https://sites.google.com/view/wil2023/). 
+* <span style="color:grey">Jun 16, 2023</span> I will be attending the [12th workshop on synthesis](https://homepage.cs.uiowa.edu/~ajreynol/SYNT2023/) and [CAV'23](http://www.i-cav.org/2023/workshops/). 
 
-Mar 2, 2023   
-Course on [Game-Theoretic Approach to Planning and Synthesis](https://essai.si/game-theoretic-approach-to-planning-and-synthesis/) accepted at [ESSAI’23]((https://essai.si/)). 
+* <span style="color:grey">Jun 15, 2023</span> I will be attending the [7th International Workshop "Women in Logic"](https://sites.google.com/view/wil2023/). 
+
+<details>
+  <summary>Previous news</summary>
+
+  * <span style="color:grey">Mar 2, 2023</span> Course on [Game-Theoretic Approach to Planning and Synthesis](https://essai.si/game-theoretic-approach-to-planning-and-synthesis/) accepted at [ESSAI’23]((https://essai.si/)).
+
+</details>
+
 
 
 

@@ -25,6 +25,13 @@ Email: shufang.zhu(at)cs.ox.ac.uk
 
 
 ## Latest news
+* <span style="color:grey">Oct 20, 2023</span> I will be attending [F+Cube](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/f-cube) at TU Delft as a selected Mentee! 
+
+
+* <span style="color:grey">Oct 13, 2023</span> I will be attending [Future Digileaders](https://www.digitalfutures.kth.se/news/future-digileaders-23/) in stockholm as a selected Future Digileader! 
+
+* <span style="color:grey">Sept 30, 2023</span> I will be attending [ECAI'26](https://ecai2023.eu/) in Krakow!
+
 * <span style="color:grey">Sept 23, 2023</span> I will be attending the Dagstuhl Seminar on [The Futures of Reactive Synthesis](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23391)!
 
 * <span style="color:grey">Jul 15, 2023</span> Paper accepted to [ECAI](https://ecai2023.eu/) 2023!
@@ -33,12 +40,14 @@ Email: shufang.zhu(at)cs.ox.ac.uk
 
 * <span style="color:grey">Jun 19, 2023</span> Our tool LydiaSyft won the 2nd place in the [synthesis competition](http://www.syntcomp.org/syntcomp-2023-results/)! Check [here](publications/LydiaSyft.pdf) for the tool description.
 
-* <span style="color:grey">Jun 16, 2023</span> I will be attending the [12th workshop on synthesis](https://homepage.cs.uiowa.edu/~ajreynol/SYNT2023/) and [CAV'23](http://www.i-cav.org/2023/workshops/). 
 
-* <span style="color:grey">Jun 15, 2023</span> I will be attending the [7th International Workshop "Women in Logic"](https://sites.google.com/view/wil2023/). 
 
 <details>
   <summary>Previous news</summary>
+
+  * <span style="color:grey">Jun 16, 2023</span> I will be attending the  <a href="https://homepage.cs.uiowa.edu/~ajreynol/SYNT2023/">12th workshop on synthesis</a> and <a href="http://www.i-cav.org/2023/workshops/">CAV'23</a>. 
+
+  * <span style="color:grey">Jun 15, 2023</span> I will be attending the <a href="https://sites.google.com/view/wil2023/">7th International Workshop "Women in Logic"</a>. 
 
   * <span style="color:grey">Mar 2, 2023</span> Course on <a href="https://essai.si/game-theoretic-approach-to-planning-and-synthesis/">Game-Theoretic Approach to Planning and Synthesis</a> accepted to <a href="https://essai.si/">ESSAI’23</a>.
 

@@ -47,7 +47,9 @@ Email: shufang.zhu(at)cs.ox.ac.uk
 
   * <span style="color:grey">Jun 16, 2023</span> I will be attending the  <a href="https://homepage.cs.uiowa.edu/~ajreynol/SYNT2023/">12th workshop on synthesis</a> and <a href="http://www.i-cav.org/2023/workshops/">CAV'23</a>. 
 
+
   * <span style="color:grey">Jun 15, 2023</span> I will be attending the <a href="https://sites.google.com/view/wil2023/">7th International Workshop "Women in Logic"</a>. 
+  
 
   * <span style="color:grey">Mar 2, 2023</span> Course on <a href="https://essai.si/game-theoretic-approach-to-planning-and-synthesis/">Game-Theoretic Approach to Planning and Synthesis</a> accepted to <a href="https://essai.si/">ESSAI’23</a>.
 

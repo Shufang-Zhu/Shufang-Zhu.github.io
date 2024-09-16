@@ -1,17 +1,11 @@
 # [Dr. Shufang Zhu](images/shufang.jpg) 
 <img src="docs/assets/shufang.jpg" alt="Shufang" width="230" height="230">
 
-I am a Senior Research Associate at the [Department of Computer Science](https://www.cs.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/), working with [Prof. Giuseppe De Giacomo](http://www.diag.uniroma1.it//degiacom/) on his Advanced ERC project [WhiteMech](https://whitemech.github.io/).
+I am a Lecturer (Assistant Professor in US terms) at [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/), [University of Liverpool](https://www.liverpool.ac.uk/).
 
 I received my Ph.D. degree in 2020, at [East China Normal University (ECNU)](http://english.ecnu.edu.cn/), Shanghai, China, under the supervision of [Prof. Geguang Pu](https://faculty.ecnu.edu.cn/_s43/pgg_en/main.psp). 
 During my Ph.D., I got the scholarship from [Chinese Scholarship Council (CSC)](https://www.chinesescholarshipcouncil.com/) and studied as a visiting Ph.D. student (August 2016 to Feb 2018) at [Rice University](https://www.rice.edu/), under the supervision of [Prof. Moshe Y. Vardi](https://www.cs.rice.edu/~vardi/).
 
-
-
----
-**Academic job market 2024**: [**Resume**](application/ShufangZhu_cv.pdf).
-
----
 
 Quick links to find me:  
 
@@ -62,7 +56,10 @@ Email: shufang.zhu(at)cs.ox.ac.uk
 
 
 ## Experience
-* Senior Postdoctoral Research Associate, 2023 - Present  
+* Lecturer, 2024 - present  
+[University of Liverpool](https://www.liverpool.ac.uk/), Liverpool, UK
+
+* Senior Postdoctoral Research Associate, 2023 - 2024  
 [University of Oxford](https://www.cs.ox.ac.uk/), Oxford, UK
 
 * Postdoctoral Research Associate, 2020 - 2022  

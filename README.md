@@ -15,7 +15,7 @@ Quick links to find me:
 
 My Erdős number is at most 3 (via Moshe Y. Vardi -> Joel H. Spencer -> Paul Erdős).
 
-Email: shufang.zhu(at)cs.ox.ac.uk
+Email: shufang.zhu(at)liverpool.ac.uk
 
 
 ## Latest news

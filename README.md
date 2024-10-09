@@ -20,56 +20,6 @@ My Erdős number is at most 3 (via Moshe Y. Vardi -> Joel H. Spencer -> Paul Erd
 Email: shufang.zhu(at)liverpool.ac.uk
 
 
-[//]: # (## Latest news)
-
-[//]: # (* <span style="color:grey">Oct 20, 2023</span> I will be attending [F+Cube]&#40;https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/f-cube&#41; at TU Delft as a selected Mentee! )
-
-[//]: # ()
-[//]: # ()
-[//]: # (* <span style="color:grey">Oct 13, 2023</span> I will be attending [Future Digileaders]&#40;https://www.digitalfutures.kth.se/news/future-digileaders-23/&#41; in stockholm as a selected Future Digileader! )
-
-[//]: # ()
-[//]: # (* <span style="color:grey">Sept 30, 2023</span> I will be attending [ECAI'26]&#40;https://ecai2023.eu/&#41; in Krakow!)
-
-[//]: # ()
-[//]: # (* <span style="color:grey">Sept 23, 2023</span> I will be attending the Dagstuhl Seminar on [The Futures of Reactive Synthesis]&#40;https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/23391&#41;!)
-
-[//]: # ()
-[//]: # (* <span style="color:grey">Jul 15, 2023</span> Paper accepted to [ECAI]&#40;https://ecai2023.eu/&#41; 2023!)
-
-[//]: # ()
-[//]: # (* <span style="color:grey">Jul 5, 2023</span> Two papers accepted to [EUMAS]&#40;https://vadimmalvone.github.io/eumas2023/&#41; 2023!)
-
-[//]: # ()
-[//]: # (* <span style="color:grey">Jun 19, 2023</span> Our tool LydiaSyft won the 2nd place in the [synthesis competition]&#40;http://www.syntcomp.org/syntcomp-2023-results/&#41;! Check [here]&#40;publications/LydiaSyft.pdf&#41; for the tool description.)
-
-[//]: # ()
-[//]: # ()
-[//]: # ()
-[//]: # (<details>)
-
-[//]: # (  <summary>Previous news</summary>)
-
-[//]: # ()
-[//]: # (  * <span style="color:grey">Jun 16, 2023</span> I will be attending the  <a href="https://homepage.cs.uiowa.edu/~ajreynol/SYNT2023/">12th workshop on synthesis</a> and <a href="http://www.i-cav.org/2023/workshops/">CAV'23</a>. )
-
-[//]: # ()
-[//]: # ()
-[//]: # (  * <span style="color:grey">Jun 15, 2023</span> I will be attending the <a href="https://sites.google.com/view/wil2023/">7th International Workshop "Women in Logic"</a>. )
-
-[//]: # (  )
-[//]: # ()
-[//]: # (  * <span style="color:grey">Mar 2, 2023</span> Course on <a href="https://essai.si/game-theoretic-approach-to-planning-and-synthesis/">Game-Theoretic Approach to Planning and Synthesis</a> accepted to <a href="https://essai.si/">ESSAI’23</a>.)
-
-[//]: # ()
-[//]: # (</details>)
-
-
-
-
-
-
-
 ## Academic Appointment
 * Lecturer, 2024 - present  
 [University of Liverpool](https://www.liverpool.ac.uk/), Liverpool, UK

@@ -7,7 +7,7 @@ My expertise lies in the interdisciplinary research area of artificial intellige
 I received my Ph.D. degree in 2020, at [East China Normal University (ECNU)](http://english.ecnu.edu.cn/), Shanghai, China, under the supervision of [Prof. Geguang Pu](https://faculty.ecnu.edu.cn/_s43/pgg_en/main.psp). 
 During my Ph.D., I got the scholarship from [Chinese Scholarship Council (CSC)](https://www.chinesescholarshipcouncil.com/) and studied as a visiting Ph.D. student (August 2016 to Feb 2018) at [Rice University](https://www.rice.edu/), under the supervision of [Prof. Moshe Y. Vardi](https://www.cs.rice.edu/~vardi/).
 
-See [CV](cv/CV_Shufang_Zhu.pdf) for more details.
+See my [CV](cv/CV_Shufang_Zhu.pdf) for more details.
 
 Quick links to find me:  
 

@@ -9,6 +9,22 @@ During my Ph.D., I got the scholarship from [Chinese Scholarship Council (CSC)](
 
 See my [CV](cv/CV_Shufang_Zhu.pdf) for more details.
 
+
+I am continually seeking highly motivated PhD students who are interested in research. 
+
+Currently, I have several <strong style="color: darkred;">funded PhD positions</strong>:
+
+* A fully funded departmental PhD studentship (home students).
+  * International applicants will need to cover the difference between home and international fees.
+* A fully funded [Centres for Doctoral Training (CDTs) studentship](https://www.liverpool.ac.uk/study/postgraduate-research/studentships/a-reliable-and-reconfigurable-robot-learning-framework-for-accelerating-materials-discovery/) (home students)
+  * A limited number of scholarships to meet the fee difference will be available to support outstanding international students. 
+* CSC-Liverpool scholarship, which usually has a deadline at the beginning of a year (Chinese students).
+
+
+If you have other means of supporting your study, you are also welcome to get in touch.
+
+
+
 Quick links to find me:  
 
 * [Github](https://github.com/Shufang-Zhu/)

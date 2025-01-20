@@ -10,9 +10,7 @@ During my Ph.D., I got the scholarship from [Chinese Scholarship Council (CSC)](
 See my [CV](cv/CV_Shufang_Zhu.pdf) for more details.
 
 
-I am continually seeking highly motivated PhD students who are interested in research. 
-
-Currently, I have several <strong style="color: darkred;">funded PhD positions</strong>:
+I am continually seeking highly motivated PhD students who are interested in research. Currently, I have several <strong style="color: darkred;">funded PhD positions</strong>:
 
 * A fully funded departmental PhD studentship (home students).
   * International applicants will need to cover the difference between home and international fees.

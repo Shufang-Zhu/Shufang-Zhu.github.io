@@ -5,17 +5,15 @@ I am a Lecturer (Assistant Professor in US terms) at the [Department of Computer
 My expertise lies in the interdisciplinary research area of artificial intelligence (AI) and formal methods (FM), with a focus on **automated planning and synthesis**.
 
 I received my Ph.D. degree in 2020, at [East China Normal University (ECNU)](http://english.ecnu.edu.cn/), Shanghai, China, under the supervision of [Prof. Geguang Pu](https://faculty.ecnu.edu.cn/_s43/pgg_en/main.psp). 
-During my Ph.D., I got the scholarship from [Chinese Scholarship Council (CSC)](https://www.chinesescholarshipcouncil.com/) and studied as a visiting Ph.D. student (August 2016 to Feb 2018) at [Rice University](https://www.rice.edu/), under the supervision of [Prof. Moshe Y. Vardi](https://www.cs.rice.edu/~vardi/).
+During my Ph.D., I got the scholarship from [Chinese Scholarship Council (CSC)](https://www.chinesescholarshipcouncil.com/) and studied as a visiting Ph.D. student (August 2016 to Feb 2018) at [Rice University](https://www.rice.edu/), under the supervision of [Prof. Moshe Y. Vardi](https://www.cs.rice.edu/~vardi/). I was selected as a [Future Digileader](https://www.digitalfutures.kth.se/event/future-digileaders-23/) by Digital Futures, Sweden in 2023 and a UT Austin [EECS Rising Star](https://risingstars.utexas.edu/) in 2022.
 
 See my [CV](cv/CV_Shufang_Zhu.pdf) for more details.
 
 
 I am continually seeking highly motivated PhD students who are interested in research. Currently, I have several <strong style="color: darkred;">funded PhD positions</strong>:
 
-* A fully funded departmental PhD studentship (home students).
-  * International applicants will need to cover the difference between home and international fees.
-* A fully funded [Centres for Doctoral Training (CDTs) studentship](https://www.liverpool.ac.uk/study/postgraduate-research/studentships/a-reliable-and-reconfigurable-robot-learning-framework-for-accelerating-materials-discovery/) (home students)
-  * A limited number of scholarships to meet the fee difference will be available to support outstanding international students. 
+* A fully funded PhD studentship, apply [here](https://www.liverpool.ac.uk/courses/trustworthy-by-design-autonomous-ai-systems-phd).
+  * Application deadline: <strong style="color: darkred;">30 June, 2025</strong>.
 * CSC-Liverpool scholarship, which usually has a deadline at the beginning of a year (Chinese students).
 
 

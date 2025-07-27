@@ -1,5 +1,5 @@
 # [Dr. Shufang Zhu](images/shufang.JPEG) 
-<img src="docs/assets/shufang.jpg" alt="Shufang" width="230" height="230">
+<img src="docs/assets/shufang.JPEG" alt="Shufang" width="230" height="230">
 
 I am a Lecturer (Assistant Professor in US terms) at the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/), [University of Liverpool](https://www.liverpool.ac.uk/). Additionally, I am an [Associate Member](https://www.cs.ox.ac.uk/people/shufang.zhu/) of the [Department of Computer Science](https://www.cs.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/). Prior to joining Liverpool, I was a Senior Research Associate at the Department of Computer Science, University of Oxford, working with [Prof. Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/) on his Advanced ERC project [WhiteMech](https://whitemech.github.io/).
 My expertise lies in the interdisciplinary research area of artificial intelligence (AI) and formal methods (FM), with a focus on **automated planning and synthesis**.

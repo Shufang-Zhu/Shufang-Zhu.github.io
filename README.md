@@ -1,24 +1,13 @@
 # [Dr. Shufang Zhu](images/shufang.JPEG) 
 <img src="docs/assets/shufang.JPEG" alt="Shufang" width="307" height="230">
 
-I am a Lecturer (Assistant Professor in US terms) at the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/), [University of Liverpool](https://www.liverpool.ac.uk/). Additionally, I am an [Associate Member](https://www.cs.ox.ac.uk/people/shufang.zhu/) of the [Department of Computer Science](https://www.cs.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/). Prior to joining Liverpool, I was a Senior Research Associate at the Department of Computer Science, University of Oxford, working with [Prof. Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/) on his Advanced ERC project [WhiteMech](https://whitemech.github.io/).
+I am a Lecturer (Assistant Professor in US terms) at the [School of Computer Science and Informatics](https://www.liverpool.ac.uk/computer-science-and-informatics/), [University of Liverpool](https://www.liverpool.ac.uk/). Additionally, I am an [Associate Member](https://www.cs.ox.ac.uk/people/shufang.zhu/) of the [Department of Computer Science](https://www.cs.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/). Prior to joining Liverpool, I was a Senior Research Associate at the Department of Computer Science, University of Oxford, working with [Prof. Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/) on his Advanced ERC project [WhiteMech](https://whitemech.github.io/).
 My expertise lies in the interdisciplinary research area of artificial intelligence (AI) and formal methods (FM), with a focus on **automated planning and synthesis**.
 
 I received my Ph.D. degree in 2020, at [East China Normal University (ECNU)](http://english.ecnu.edu.cn/), Shanghai, China, under the supervision of [Prof. Geguang Pu](https://faculty.ecnu.edu.cn/_s43/pgg_en/main.psp). 
 During my Ph.D., I got the scholarship from [Chinese Scholarship Council (CSC)](https://www.chinesescholarshipcouncil.com/) and studied as a visiting Ph.D. student (August 2016 to Feb 2018) at [Rice University](https://www.rice.edu/), under the supervision of [Prof. Moshe Y. Vardi](https://www.cs.rice.edu/~vardi/). I was selected as a [Future Digileader](https://www.digitalfutures.kth.se/event/future-digileaders-23/) by Digital Futures, Sweden in 2023 and a UT Austin [EECS Rising Star](https://risingstars.utexas.edu/) in 2022.
 
 See my [CV](cv/CV_Shufang_Zhu.pdf) for more details.
-
-
-I am continually seeking highly motivated PhD students who are interested in research. Currently, I have several <strong style="color: darkred;">funded PhD positions</strong>:
-
-* A fully funded PhD studentship, apply [here](https://www.liverpool.ac.uk/courses/trustworthy-by-design-autonomous-ai-systems-phd).
-  * Application deadline: <strong style="color: darkred;">30 June, 2025</strong>.
-* CSC-Liverpool scholarship, which usually has a deadline at the beginning of a year (Chinese students).
-
-
-If you have other means of supporting your study, you are also welcome to get in touch.
-
 
 
 Quick links to find me:  

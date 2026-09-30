@@ -32,6 +32,11 @@ Email: shufang.zhu(at)liverpool.ac.uk
 [Sapienza Università di Roma](http://www.diag.uniroma1.it/), Rome, Italy
 
 
+## PhD Students
+* [Venkata Harshavardhan Chinta](https://cvhv242.github.io/), Dec. 25 - Present
+* [Yujian Cao](https://yujian-cao.github.io/), Sept. 25 - Present
+
+
 ## Education
 * Ph.D. in School of Software Engineering, 2014 - 2020  
 East China Normal University, Shanghai, China (ECNU).
